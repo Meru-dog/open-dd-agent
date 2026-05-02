@@ -1,0 +1,17 @@
+# 環境変数（APIキーを含むため必ず除外）
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# テンポラリファイル
+*.tmp
+*.log
